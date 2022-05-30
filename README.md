@@ -20,7 +20,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makt96&show_icons=true&theme=tokyonight)
 
 ## 🌐Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makt96&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makt96&theme=dark)]
 
 
 ## 🌐Activity Graph
