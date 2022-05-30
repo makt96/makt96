@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hola, I'm [MD ABDUL KADIR!](https://makt96.github.io/) 👋
 
-<!--
-**makt96/makt96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makt96&label=Views&color=blue&style=plastic" alt="makt96" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫About Me :
+- 🔭 I’m currently working on [Data Science].
+- 🌱 I’m currently building ML and Data Science Projects.
+- 👯 I’m looking to a position of Entry Level Data Scientist/Analyst.
+- 🤔 I like to work on python is a most powerful language.
+- 💬 Just DM me for any working scope in your organization or company.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/makt/) , [Email-> makt.official@gmail.com]
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend most of time to learn more, I believe Learning is Infinite.
