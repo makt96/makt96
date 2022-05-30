@@ -10,7 +10,7 @@
 - 💬 Just DM me for any working scope in your organization or company.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/makt/) , [Email-> makt.official@gmail.com]
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of time to learn more, I believe Learning is Infinite.
+- ⚡ Top Feature: I spend most of time to learn more, I believe Learning is Infinite.
 
 
 <h3 align="left">Connect with me:</h3>
