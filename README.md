@@ -11,3 +11,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/makt/) , [Email-> makt.official@gmail.com]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of time to learn more, I believe Learning is Infinite.
+
+
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makt) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@makt) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/maktReddit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/makt96) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/#) 
