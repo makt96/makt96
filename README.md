@@ -29,6 +29,11 @@
 
 # 📊GitHub Stats :
 
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=makt96&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,14 +41,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makt96&show_icons=true&theme=tokyonight)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makt96&theme=dark)]
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makt96&theme=dark)] -->
+
+
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=makt96&theme=redical)]
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
