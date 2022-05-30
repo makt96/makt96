@@ -29,17 +29,14 @@
 
 # 📊GitHub Stats :
 
-<h3 align="left">Language Usage Graph:</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makt96&show_icons=true&theme=tokyonight)
 
-<h3 align="left">Streak Stats</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makt96&theme=dark)]
 
 
-<h3 align="left">Activity Graph</h3>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=makt96&theme=redical)]
