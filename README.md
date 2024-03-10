@@ -8,7 +8,7 @@
 - 👯 I’m looking to a position of Entry Level Cybersecurity Specialist/Analyst or SOC's or Blue Team Member.
 - 🤔 I like to work on python is a most powerful language.
 - 💬 Just DM me for any working scope in your organization or company.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/makt/) , [Email-> makt.official@gmail.com]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/makt/) , [Email-> makt.cse@gmail.com]
 - 😄 Pronouns: He/His/Him
 - ⚡ Top Feature: I spend most of time on learning, I believe there is no full stop(.) of learning but has comma,,
 
