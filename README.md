@@ -22,14 +22,3 @@
 </p>
 
  
-
-
-
-
-
-
-
-
-
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=makt96&theme=redical)
