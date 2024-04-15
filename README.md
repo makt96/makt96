@@ -1,4 +1,4 @@
-## Hola, I'm [MD ABDUL KADIR!](https://makt96.github.io/) 👋
+## Hi there!, I'm [MD ABDUL KADIR!](https://makt96.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makt96&label=Views&color=blue&style=plastic" alt="makt96" /> </p>
 
