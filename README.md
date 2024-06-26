@@ -11,8 +11,12 @@
   
 <p>
     
-<p align="center">
+<p align="left">
             <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+</p>
+
+<p align ="right">
+    http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={makt96}&theme={theme_name}&utcOffset={utcOffset}
 </p>
           
 <p align="center">
