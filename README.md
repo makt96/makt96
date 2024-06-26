@@ -16,7 +16,7 @@
 </p>
 
 <p align ="right">
-    http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={makt96}&theme={theme_name}&utcOffset={utcOffset}
+    <a http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={makt96}&theme={gruvbox}&utcOffset={utcOffset}/></a>
 </p>
           
 <p align="center">
