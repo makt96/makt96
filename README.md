@@ -24,3 +24,4 @@
 </p>
 
  
+![snake gif](https://github.com/makt96/blob/output/github-contribution-grid-snake.gif)
