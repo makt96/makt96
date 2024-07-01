@@ -1,10 +1,10 @@
 
 # 📊GitHub Stats :
 
-<p align="center">
+
   [![GitHub Streak]](https://github.com/makt96/github-readme-streak-stats)
     
-</p>
+
 
 
   
