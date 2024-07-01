@@ -20,8 +20,11 @@
     
 </p>
 
-### Top Languages I work 👁️‍🗨️
-<p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&hide_progress=false" /></p>
+
+<p align="center"> 
+
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=pie&hide_progress=false" />
+</p>
 
 ### Profile views counter 👁️‍🗨️
 [![profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/makt96)
