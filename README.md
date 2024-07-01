@@ -2,7 +2,7 @@
 # 📊GitHub Stats :
 
 
-  [![GitHub Streak]](https://github.com/makt96/github-readme-streak-stats)
+  <img src ="https://github-readme-stats.vercel.app/api?username=Bogdan-Lyashenko" /> 
     
 
 
