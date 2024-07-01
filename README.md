@@ -2,7 +2,7 @@
 # 📊GitHub Stats :
 
 
-  <img src ="https://github-readme-stats.vercel.app/api?username=Bogdan-Lyashenko" /> 
+ <p align="center"> <img src ="https://github-readme-stats.vercel.app/api?username=makt96" /> </p>
     
 
 
