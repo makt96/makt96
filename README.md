@@ -8,25 +8,26 @@
 [![Mail Badge](https://img.shields.io/badge/Email-Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:makt.cse@gmail.com)
 
 
- <p align="center"> <img src ="https://github-readme-stats.vercel.app/api?username=makt96&rank_icon=github" /> </p>
+ 
     
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=pie&hide_progress=false" />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makt96&theme=2077)
 
 
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makt96&theme=2077"></p>
 
 
 
-
- <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makt96&theme=2077&utcOffset=8" />
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makt96&theme=2077)
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makt96&theme=2077)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makt96&theme=2077)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makt96&theme=2077&utcOffset=8)
+<p align="center" > 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makt96&theme=2077">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makt96&theme=2077">
+ </p>
+ 
+ <p align="center" > 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makt96&theme=2077">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makt96&theme=2077&utcOffset=8">
+ </p>
+ <p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=pie&hide_progress=false" /></p>
+ 
 
 
 
