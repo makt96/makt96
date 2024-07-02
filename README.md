@@ -11,18 +11,24 @@
  <p align="center"> <img src ="https://github-readme-stats.vercel.app/api?username=makt96&rank_icon=github" /> </p>
     
 
-<p align="center"><img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makt96&theme=default" </p>
-
-          
-
-    
-</p>
-
-
-<p align="center"> 
-
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=pie&hide_progress=false" />
-</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makt96&theme=2077)
+
+
+
+
+
+
+ <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makt96&theme=2077&utcOffset=8" />
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makt96&theme=2077)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makt96&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makt96&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makt96&theme=2077&utcOffset=8)
+
+
 
 ### Profile views counter 👁️‍🗨️
 [![profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/makt96)
