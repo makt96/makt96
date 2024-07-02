@@ -11,10 +11,13 @@
  
     
 
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makt96&theme=2077"></p>
 
 
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makt96&theme=2077"></p>
-
+<p align="center" > 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makt96&theme=2077">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makt96&theme=2077&utcOffset=8">
+ </p>
 
 
 <p align="center" > 
@@ -22,10 +25,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makt96&theme=2077">
  </p>
  
- <p align="center" > 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makt96&theme=2077">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makt96&theme=2077&utcOffset=8">
- </p>
+ 
+ 
  <p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=pie&hide_progress=false" /></p>
  
 
