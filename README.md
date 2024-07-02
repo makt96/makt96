@@ -11,7 +11,7 @@
  <p align="center"> <img src ="https://github-readme-stats.vercel.app/api?username=makt96&rank_icon=github" /> </p>
     
 
-<p align="center"><img src = "https://github.com/makt96/makt96/blob/output/github-contribution-grid-snake.gif" /></p>
+<p align="center"><img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makt96&theme=default)" /></p>
 
           
 
