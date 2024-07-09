@@ -27,7 +27,7 @@
  
  
  
- <p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=pie&hide_progress=false" /></p>
+ <p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=makt96&layout=pie" /></p>
  
 
 
