@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,11 +32,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak card
-        uses: readme-tools/github-readme-streak-stats-action@v1
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=github-dark&hide_border=true
+          options: user=${{ github.repository_owner }}&theme=github-dark&hide_border=true&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate productive time card
         uses: readme-tools/github-readme-stats-action@v1
