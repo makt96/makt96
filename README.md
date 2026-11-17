@@ -33,7 +33,7 @@
 ### 🧭 What I'm about
 
 - 🔭 Currently building **event-driven data platforms** and **internal developer tooling**.
-- 🌱 Learning **Rust** for systems programming and **Terraform** for infrastructure-as-code.
+- 🌱 Working on building Scaleable, Robust, Cost-Optimized **Data Pipeline** on cloud infrastructure
 - 💬 Ask me about **Python, SQL, System Design, Snowflake, dbt, Spark, Databricks, Airflow, Kafka, and clean API design**.
 - ⚡ I believe good documentation is a feature, not an afterthought.
 
