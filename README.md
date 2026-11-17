@@ -85,13 +85,13 @@
 ### 📊 GitHub, in numbers
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/stats.svg" alt="GitHub stats" height="180">
-  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/repos-per-language.svg" alt="Repos per language" height="165">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/stats.svg" alt="GitHub stats" height="185">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/repos-per-language.svg" alt="Repos per language" height="185">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/streak.svg" alt="GitHub streak" height="165">
-  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/productive-time.svg" alt="Productive time" height="165">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/streak.svg" alt="GitHub streak" height="185">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/output/github_dark/productive-time.svg" alt="Productive time" height="185">
 </p>
 
 ---
