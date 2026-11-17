@@ -47,14 +47,16 @@
 
 ### 📊 GitHub, in numbers
 
+### 📊 GitHub, in numbers
+
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="165">
-  <img src="./profile/top-langs.svg" alt="Top languages" height="165">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/profile/stats.svg" alt="GitHub stats" height="165">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/profile/top-langs.svg" alt="Top languages" height="165">
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub streak" height="165">
-  <img src="./profile/productive-time.svg" alt="Productive time" height="165">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/profile/streak.svg" alt="GitHub streak" height="165">
+  <img src="https://raw.githubusercontent.com/makt96/makt96/main/profile/productive-time.svg" alt="Productive time" height="165">
 </p>
 
 ---
