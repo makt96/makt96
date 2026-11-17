@@ -32,7 +32,7 @@
 
 - 🔭 Currently building **event-driven microservices** and internal developer platforms.
 - 🌱 Learning **Rust** for systems programming and **Terraform** for infrastructure-as-code.
-- 💬 Ask me about **Python, Go, PostgreSQL, Kafka, and clean API design**.
+- 💬 Ask me about **Python, PostgreSQL/SQL, System Design, Snowflake, dBT, Spark, Databricks, Airflow, Kafka, and clean API design**.
 - ⚡ I believe good documentation is a feature, not an afterthought.
 
 ---
