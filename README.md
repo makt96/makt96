@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm MD 👋</h1>
 
 <p align="center">
-  <em>Backend engineer · System design enthusiast · Open-source contributor</em>
+  <em>Backend engineer(Data) · System design enthusiast · Open-source contributor</em>
 </p>
 
 <p align="center">
