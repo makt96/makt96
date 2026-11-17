@@ -41,9 +41,10 @@
 
 ### 💼 Currently Working With
 
-<!-- WAKATIME:START -->
-<!-- This section is automatically updated by readme-engine using the WakaTime plugin. -->
-<!-- WAKATIME:END -->
+### 💼 Currently Working With
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
