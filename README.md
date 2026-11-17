@@ -118,7 +118,6 @@
 ---
 
 <p align="center">
-  <em>Thanks for stopping by. If something here resonates, my inbox is always open. <img width="35" height="25" alt="image" src="https://github.com/user-attachments/assets/5276ea38-030a-452f-958c-3ed6f3456335" />
-
+  <em>Thanks for stopping by. If something here resonates, my inbox is always open. <img width="25" height="35" alt="image" src="https://github.com/user-attachments/assets/5276ea38-030a-452f-958c-3ed6f3456335" />
 MAKT.CSE@GMAIL.COM</em>
 </p>
