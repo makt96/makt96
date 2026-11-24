@@ -100,7 +100,7 @@
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[project-1](https://github.com/makt96/btc-pipeline)** | BTC Pipeline and KPI Modeling. | `Python` · `dBT` · `Snowflake` · `Tableu` |
+| **[project-1](https://github.com/makt96/btc-pipeline)** | BTC Pipeline and KPI Modeling. | `Python` · `dBT` · `Snowflake` · `Google Locker Studio` |
 | **[project-2](https://github.com/makt96/project-2)** | One-line summary of the problem this solves. | `dbt` · `Spark` · `Databricks` |
 | **[project-3](https://github.com/makt96/project-3)** | One-line summary of the problem this solves. | `Go` · `Kafka` · `PostgreSQL` |
 | **[project-4](https://github.com/makt96/project-4)** | One-line summary of the problem this solves. | `Python` · `Docker` · `AWS` |
